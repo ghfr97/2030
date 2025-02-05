@@ -1,2 +1,2 @@
 # 2030
-Repository menuju krisis dunia
+Repository untuk catatan perjalanan sebagai ML engineer
